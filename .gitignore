@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.env
+
+# Firebase Service Account Key
+firebase_token.json
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore secrets
+.env
+.aws/
+
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Logs and Cache
+*.log
+.cache/
+.pytest_cache/
+*.sqlite3
+chroma_storage/
+
+*.mp3
+*.json
